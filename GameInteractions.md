@@ -2,7 +2,7 @@ Start with simple premade map
 
 
 Character on map
-- Can't go through 
+- Can't go through/Can Go Through
 
 
 In Dungeon:
