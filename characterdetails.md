@@ -71,11 +71,11 @@
     - Apply the Damage
 
 # Still need to do
-[ ] Plan out how Classes strengthen them...
-[ ] Slot ENUM
-[ ] EFFECT Class
-[ ] COORD Class
-[ ] Abilities Class
-[ ] Sequence Diagram for 
-    [ ] Preforming an action (Attack/Move/ETC)
-[ ] How to add component system?
+[] Plan out how Classes strengthen them...
+[] Slot ENUM
+[] EFFECT Class
+[] COORD Class
+[] Abilities Class
+[] Sequence Diagram for 
+    [] Preforming an action (Attack/Move/ETC)
+[] How to add component system?
