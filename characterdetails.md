@@ -14,13 +14,13 @@
     - A way to attract opponents/Can Hear Opponents?
 - Listen : INTEGER
     - How far away can character hear? I was thinking that if a character listen and opponents noise is bigger than distance some way to know
-- Inventory : List of <ITEM>
+- Inventory : List of <ITEM'>
     - All Items should probably be a base class with certain pieces of information?
-- Equipped : Dictionary with <SLOT : ITEM>
+- Equipped : Dictionary with <SLOT : ITEM'>
     - Slot will be an ENUM of specific values 
 - Level : INT
-- KnownAbilitiies : List of <ABILITIES>
-- CurrentEffects : Dict of <TAG : EFFECT>
+- KnownAbilitiies : List of <ABILITIES'>
+- CurrentEffects : Dict of <TAG : EFFECT'>
     - There can only be one of each tag - need to probably have effects define what to do if already exists
     - The tags should be uniquely made if they are generic, but able to find it
     - Iterating through them will be used with the keys
@@ -43,7 +43,7 @@
         - So that an effect can change this for a time - and in the main game logic, it checks if it's a player or not
 
 # Useful Functions 
-- GetEffectiveAttribute(attribute: string?)->INT/FLOAT/
+- GetEffectiveAttribute(attribute: string?)->INT/FLOAT/Other....
     - probably need a way to define what attributes this can be used on
     - Simple list would be these I think? - This may get the weapons modification as well?
         - Strength
@@ -59,7 +59,7 @@
         - Speed
         - Player Controlled?
     - Will take the base value, apply any applicable effects
-- GetIsAware(Opponent:Character)-><SEEN/HEARD/BOTH/NEITHER> 
+- GetIsAware(Opponent:Character)-><SEEN/HEARD/BOTH/NEITHER'> 
     - If can see opponent or hear them then they are "aware"
     - Uses active values of Noise, Listen and SightRange
     - Checks that nothing is blocking
