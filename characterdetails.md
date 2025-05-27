@@ -79,3 +79,13 @@
 - [ ] Sequence Diagram for 
     - [ ] Preforming an action (Attack/Move/ETC)
 - [ ] How to add component system?
+
+
+# Side Notes
+- I think it would be interesting to have using mana have side effects on health on other stats
+In pretty much every story, exhaustion is what holds back a spellcaster, along with the "inner power" of some sort (mana) - so I think it would be interesting to have degrees of penalties depending on the amount of mana left (it would be percentage, like maybe -1 to stats every 10% off of max)
+
+There would need to be a lot of balancing around this - but it does sort of play into making different classes - like maybe for non spells there is a mana like stat (stamina or the like) that does the same thing for non magical abilities - and maybe lower mana/stamina reduces physical attributes (stamina theoretically should be more, but from a balance point of view, probably not) and mana actively would reduce health as well (using some life force to power the magic and the like)
+
+Would add other drawbacks to using abilities, and can make costs cheaper with regeneration of mana be really low for balancing - also makes it so monsters can have different ways to conserve abilities
+(Plus having an enemy with high mana regen, but low max be a hit and run kind of character would be pretty interesting)
