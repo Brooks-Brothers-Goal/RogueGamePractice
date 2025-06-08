@@ -34,6 +34,7 @@
     - Must be a valid value from a Class ENUM defined somehow - probably in config files
 - Position : COORD(X, Y, Floor?)
     - From a position Class for some helpful functions (unless one is found)
+    - For now probably require the party travel together between floors
 - Speed : INTEGER
     - For how fast can move/when they take turns in order
 - XP : INTEGER
