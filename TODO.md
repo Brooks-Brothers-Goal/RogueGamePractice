@@ -37,6 +37,7 @@
 - [ ] AI logic
 - [ ] How do torches work?
 - [ ] Weight penalties (Just not allow going over? - Do we want it? -Moving costs more stamina, up to not being able to move at all)
+- [ ] Python File Seperation (How to make it work nicely)
 
 # Config/Database Files To Make
 - [ ] Weapons
